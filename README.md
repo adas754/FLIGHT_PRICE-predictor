@@ -8,3 +8,14 @@ The Code is written in Python 3.8.10. If you don't have Python installed you can
 
 pip install -r requirements.txt
 
+Library used
+
+python
+
+pandas
+
+numpy
+
+scikit-learn
+
+seaborn
