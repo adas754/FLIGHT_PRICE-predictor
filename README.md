@@ -1,2 +1,3 @@
 OVERVIEW
-This is a Flask web app which predicts fare of Flight ticket.
+
+This is a Flask web app which predicts fare of Flight ticket in india only
