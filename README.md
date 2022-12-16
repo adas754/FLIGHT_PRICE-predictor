@@ -19,3 +19,5 @@ numpy
 scikit-learn
 
 seaborn
+
+Youtube link of this project - https://www.youtube.com/watch?v=iC83WhzxrXI&list=PLEdm1Ft2MaWuhDnZWLKm_y_43yN90jfMx
